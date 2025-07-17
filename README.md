@@ -42,7 +42,7 @@ It includes **20+ templates** for both **tech** and **non-tech** teams:
 - Pre-filled tables
 - Reusable for all your projects
 
-[View Full Kit Here](https://your-gumroad-link.com)
+[View Full Kit Here]([https://your-gumroad-link.com](https://quillofacoder.gumroad.com/l/dev-technical-doc-templates))
 
 
 
